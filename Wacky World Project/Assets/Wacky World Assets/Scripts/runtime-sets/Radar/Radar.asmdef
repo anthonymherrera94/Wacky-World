@@ -1,0 +1,16 @@
+{
+    "name": "Radar",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8ca9ace5af3d28043bb685a37becdc95"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

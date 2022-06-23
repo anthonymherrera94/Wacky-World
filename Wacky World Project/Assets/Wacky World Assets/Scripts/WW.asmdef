@@ -1,0 +1,24 @@
+{
+    "name": "WW",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26",
+        "GUID:656e461844099ae43a609ff6109b0877",
+        "GUID:bb05cab7d802aa5468f8f2f86840d984",
+        "GUID:5c3586b65daca564da9e04eb7e9165b4",
+        "GUID:34e205acb3c4ca74fa66233fc69d82cd",
+        "GUID:94854a55f26d41f42af3f3d1593f7ade",
+        "GUID:c85c54e2eed1a7f4689f533ae705b256",
+        "GUID:4a34b70bb45d80f45b95f2d9299eee2d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

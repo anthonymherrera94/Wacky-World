@@ -1,0 +1,16 @@
+{
+    "name": "WackyCollectables",
+    "rootNamespace": "",
+    "references": [
+        "GUID:94854a55f26d41f42af3f3d1593f7ade"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

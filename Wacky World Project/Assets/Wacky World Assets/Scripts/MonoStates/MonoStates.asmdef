@@ -1,0 +1,17 @@
+{
+    "name": "MonoStates",
+    "rootNamespace": "",
+    "references": [
+        "GUID:94854a55f26d41f42af3f3d1593f7ade",
+        "GUID:1bd3ddc2e2ddea34e8e1ee9ada272460"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

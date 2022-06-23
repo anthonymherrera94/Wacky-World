@@ -1,0 +1,6 @@
+{
+    "name": "SoundManagerTests",
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

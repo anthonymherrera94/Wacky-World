@@ -1,0 +1,16 @@
+{
+    "name": "MovementComponents",
+    "rootNamespace": "",
+    "references": [
+        "GUID:814fa93f467bac54092b1621a1a8e34c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
